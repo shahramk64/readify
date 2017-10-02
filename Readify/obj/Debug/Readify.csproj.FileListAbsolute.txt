@@ -1,0 +1,8 @@
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\Readify\bin\Readify.dll
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\Readify\bin\Readify.pdb
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\Readify\obj\Debug\Readify.dll
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\Readify\obj\Debug\Readify.pdb
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\temp\Readify\bin\Readify.dll
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\temp\Readify\bin\Readify.pdb
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\temp\Readify\obj\Debug\Readify.dll
+C:\Users\shahram.kalantari\Desktop\testwcf\Readify\temp\Readify\obj\Debug\Readify.pdb
